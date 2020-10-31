@@ -1,5 +1,5 @@
 # fizz-buzz
-[![FizzBuzz Actions Status](https://github.com/mannibasi/fizz-buzz/workflows/FizzBuzz/badge.svg)](https://github.com/mannibasi/fizz-buzz/actions)
+[![FizzBuzz Actions Status](https://github.com/mannibasi/fizz-buzz/workflows/FizzBuzz/badge.svg)](https://github.com/mannibasi/fizz-buzz/actions) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mannibasi_fizz-buzz&metric=alert_status)](https://sonarcloud.io/dashboard?id=mannibasi_fizz-buzz)
 
 Fizz buzz is a group word game for children to teach them about division.  Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz".
 
